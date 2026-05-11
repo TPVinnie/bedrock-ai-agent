@@ -3,4 +3,5 @@ opensearch-py
 botocore
 awscli
 retrying
+ipywidgets
 pandas
